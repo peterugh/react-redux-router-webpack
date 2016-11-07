@@ -1,0 +1,39 @@
+@import '../../../scss/colors';
+.Fetch {
+  max-width: 900px;
+  margin:30px auto;
+  width: 90%;
+}
+.h1 {
+  font-family: 'Lobster', Arial, sans-serif;
+  font-size: 50px;
+  font-weight: normal;
+  text-align: center;
+  margin:10px 0;
+  color:$blue;
+}
+.copy {
+  font-size: 18px;
+  color:#777;
+  line-height: 150%;
+  padding:5px 0 10px;
+}
+
+.textInput {
+  width:50%;
+  border: 1px solid #ccc;
+  padding:10px;
+  font-size:18px;
+  margin-top:10px;
+  padding: 10px 20px;
+}
+
+.button {
+  border: none;
+  padding:10px 20px;
+  background: #61DAFB;
+  display: inline-block;
+  color:#fff;
+  font-size: 18px;
+  cursor: pointer;
+}

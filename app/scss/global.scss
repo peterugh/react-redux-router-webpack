@@ -1,0 +1,13 @@
+@import './reset';
+@import './fonts';
+@import './mixins';
+
+body {
+  font-family: Arial, arial, sans-serif;
+}
+h1, h2, h3 {
+  color:#777;
+}
+.clearBoth {
+  clear: both;
+}
